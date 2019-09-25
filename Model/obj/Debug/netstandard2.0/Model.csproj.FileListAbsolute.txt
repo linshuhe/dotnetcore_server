@@ -1,0 +1,9 @@
+E:\dotnet\projects\server\Model\bin\Debug\netstandard2.0\Model.deps.json
+E:\dotnet\projects\server\Model\bin\Debug\netstandard2.0\Model.dll
+E:\dotnet\projects\server\Model\bin\Debug\netstandard2.0\Model.pdb
+E:\dotnet\projects\server\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+E:\dotnet\projects\server\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+E:\dotnet\projects\server\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+E:\dotnet\projects\server\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+E:\dotnet\projects\server\Model\obj\Debug\netstandard2.0\Model.dll
+E:\dotnet\projects\server\Model\obj\Debug\netstandard2.0\Model.pdb

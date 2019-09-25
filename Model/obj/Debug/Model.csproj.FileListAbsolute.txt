@@ -1,0 +1,15 @@
+E:\dotnet\projects\server\Model\bin\Debug\Model.deps.json
+E:\dotnet\projects\server\Model\bin\Debug\Model.dll
+E:\dotnet\projects\server\Model\bin\Debug\Model.pdb
+E:\dotnet\projects\server\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\dotnet\projects\server\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\dotnet\projects\server\Model\obj\Debug\Model.AssemblyInfoInputs.cache
+E:\dotnet\projects\server\Model\obj\Debug\Model.AssemblyInfo.cs
+E:\dotnet\projects\server\Model\obj\Debug\Model.dll
+E:\dotnet\projects\server\Model\obj\Debug\Model.pdb
+E:\dotnet\projects\Bin\Model.deps.json
+E:\dotnet\projects\Bin\Model.dll
+E:\dotnet\projects\Bin\Model.pdb
+E:\dotnet\projects\server\Bin\Model.deps.json
+E:\dotnet\projects\server\Bin\Model.dll
+E:\dotnet\projects\server\Bin\Model.pdb

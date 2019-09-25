@@ -1,0 +1,14 @@
+e:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\App.deps.json
+e:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\App.runtimeconfig.json
+e:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\App.runtimeconfig.dev.json
+e:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\App.dll
+e:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\App.pdb
+e:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.csprojAssemblyReference.cache
+e:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.csproj.CoreCompileInputs.cache
+e:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.AssemblyInfoInputs.cache
+e:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.AssemblyInfo.cs
+e:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.dll
+e:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.pdb
+E:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\Model.dll
+E:\dotnet\projects\server\App\bin\Debug\netcoreapp2.2\Model.pdb
+E:\dotnet\projects\server\App\obj\Debug\netcoreapp2.2\App.csproj.CopyComplete
